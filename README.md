@@ -4,7 +4,7 @@
 
 #### Languages and frameworks 🤓
 
-[![My Skills](https://skillicons.dev/icons?i=react,vue,git,html,js,laravel,nextjs,php,tailwindcss,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,php,git,react,vue,nextjs,tailwindcss,sass,laravel,mysql)](https://skillicons.dev)
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
