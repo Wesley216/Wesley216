@@ -1,7 +1,5 @@
 ### Hi there 👋🏻
 
-[![Linkedin Badge](https://img.shields.io/badge/-Wesley%20Roberto-6660cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-roberto/)](https://www.linkedin.com/in/wesley-roberto-6b0018198/)
-
 #### Languages and frameworks 🤓
 
 [![My Skills](https://skillicons.dev/icons?i=html,js,php,git,react,vue,nextjs,tailwindcss,sass,laravel,mysql)](https://skillicons.dev)
