@@ -8,7 +8,7 @@
 
 #### Languages learning 🚀
 
-[![My Skills](https://skillicons.dev/icons?i=ts,c#)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,cs)](https://skillicons.dev)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Wesley216&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wesley216&layout=compact&theme=tokyonight)](https://github.com/Wesley216/github-readme-stats)
